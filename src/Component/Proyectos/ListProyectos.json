@@ -21,7 +21,7 @@
     "id": 3,
     "title": "Skate Nation",
     "subtitle": "Proyecto elaborado en conjunto con un equipo, creado con HTML, CSS y Js, el proyecto es responsive design, haciendo uso de arrays de objetos para la vista de los productos.",
-    "image": "../../../skateNation.png",
+    "image": "../../../public/skateNation.png",
     "alt": "skateNation",
     "git": "https://gomezgtzem.github.io/proyecto-integrador/src/",
     "url": "https://github.com/gomezgtzem/proyecto-integrador"
