@@ -25,7 +25,7 @@ const Skills = ({ scrolear }) => {
                 <div className=" w-full flex flex-col p-10 text-orange-100 text-xl text-center">
                     <div className="flex flex-row flex-wrap pb-7 gap-5">
                         <div>
-                            <img className="size-20 mb-2" src={Html} alt="" />
+                            <img className="size-20 mb-2 " src={Html} alt="" />
                             <p>HTML 5</p>
                         </div>
                         <div>
