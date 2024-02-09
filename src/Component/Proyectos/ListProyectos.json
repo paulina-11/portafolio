@@ -12,7 +12,7 @@
     "id": 2,
     "title": "Anime Wiki",
     "subtitle": "Desarrollé una Wiki de Anime, creado con Angular para la interfaz de usuario dinámica y responsive, consumiendo un servicio de JikanAPI por medio de httpClient para obtener un listado de Animes.",
-    "image": "/public/animeWiki.png",
+    "image": "../../../public/animeWiki.png",
     "alt": "animeWiki",
     "git": "https://github.com/paulina-11/jikan-api-",
     "url": "https://animewikii.netlify.app/"
@@ -21,7 +21,7 @@
     "id": 3,
     "title": "Skate Nation",
     "subtitle": "Proyecto elaborado en conjunto con un equipo, creado con HTML, CSS y Js, el proyecto es responsive design, haciendo uso de arrays de objetos para la vista de los productos.",
-    "image": "/public/skateNation.png",
+    "image": "../../../skateNation.png",
     "alt": "skateNation",
     "git": "https://gomezgtzem.github.io/proyecto-integrador/src/",
     "url": "https://github.com/gomezgtzem/proyecto-integrador"
@@ -30,7 +30,7 @@
     "id": 4,
     "title": "Invitación de Boda",
     "subtitle": "Proyecto creado con Angular, maquetando una invitación, creando animaciones con aos animation, utilizando el enfoque mobile first y haciendo uso de grid para la organización de los recuadros.",
-    "image": "/public/invitacion.png",
+    "image": "../../../public/invitacion.png",
     "alt": "Invitacion",
     "git": "https://boda-anna-aaron.netlify.app/ ",
     "url": "https://github.com/paulina-11/invitacion-web"
@@ -40,7 +40,7 @@
     "id": 5,
     "title": "FakeShop",
     "subtitle": "Aplicación creada en react consumiendo una API de productos, responsive web design, incluye una paginación para ver los productos ordenados, desplegada en Netlify.",
-    "image": "/public/fakeShop.png",
+    "image": "../../../public/fakeShop.png",
     "alt": "fakeShop",
     "git": "https://github.com/paulina-11/fakeShop",
     "url": "https://faketiendita.netlify.app/"
@@ -49,7 +49,7 @@
     "id": 6,
     "title": "Replica Venn",
     "subtitle": "Réplica de la pantalla de inicio de Venn, maqueta creada con HTML y CSS, responsive web design.",
-    "image": "/public/venn.png",
+    "image": "../../../public/venn.png",
     "alt": "venn",
     "git": "https://github.com/paulina-11/replicaVenn",
     "url": "https://paulina-11.github.io/replicaVenn/"
