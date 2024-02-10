@@ -23,8 +23,8 @@
     "subtitle": "Proyecto elaborado en conjunto con un equipo, creado con HTML, CSS y Js, el proyecto es responsive design, haciendo uso de arrays de objetos para la vista de los productos.",
     "image": "../../../skateNation.png",
     "alt": "skateNation",
-    "git": "https://gomezgtzem.github.io/proyecto-integrador/src/",
-    "url": "https://github.com/gomezgtzem/proyecto-integrador"
+    "git": "https://github.com/gomezgtzem/proyecto-integrador",
+    "url": "https://gomezgtzem.github.io/proyecto-integrador/src/"
   },
   {
     "id": 4,
@@ -32,8 +32,8 @@
     "subtitle": "Proyecto creado con Angular, maquetando una invitación, creando animaciones con aos animation, utilizando el enfoque mobile first y haciendo uso de grid para la organización de los recuadros.",
     "image": "../../../invitacion.png",
     "alt": "Invitacion",
-    "git": "https://boda-anna-aaron.netlify.app/ ",
-    "url": "https://github.com/paulina-11/invitacion-web"
+    "git": "https://github.com/paulina-11/invitacion-web",
+    "url": "https://boda-anna-aaron.netlify.app/"
   },
 
   {

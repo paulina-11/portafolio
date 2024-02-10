@@ -12,10 +12,10 @@ const Card = ({ titles, subtitles, images, alt, git, url }) => {
         <div className="absolute flex flex-col inset-0 text-orange-100  items-center justify-center gap-3 px-6  translate-y-[100%] group-hover:translate-y-0 transition-all duration-500  ">
           <div className="flex gap-5">
 
-            <a target="_blank" href={url} rel="noreferrer" >
+            <a target="_blank" href={git} rel="noreferrer" >
               <i className=" bi bi-github text-2xl "></i>
             </a>
-            <a target="_blank" href={git} rel="noreferrer">
+            <a target="_blank" href={url} rel="noreferrer">
               <i className="bi bi-link-45deg text-2xl "></i>
             </a>
           </div>
