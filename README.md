@@ -1,8 +1,17 @@
-# React + Vite
+Portafolio :)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi portafolio personal donde presento los proyectos en los que he trabajado, mis habilidades y la experiencia que he adquirido como desarrollador frontend. Aquí podrás explorar mis aplicaciones web, mis contribuciones y más.
 
-Currently, two official plugins are available:
+## Tecnologías utilizadas
+- HTML5, CSS3, JavaScript (ES6+)
+- React
+- Git, GitHub
+- TailwindCSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ## Ver mi portafolio
+Puedes ver mi portafolio en línea en https://paulina-avila.netlify.app/ 
+
+## Clonar este repositorio
+Si deseas clonar este repositorio y ver el código o contribuir:
+```bash
+git clone https://github.com/paulina-11/portafolio.git
