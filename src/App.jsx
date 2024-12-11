@@ -7,12 +7,14 @@ import Contactos from "./Component/Contactos/Contactos"
 import Footer from "./Component/Footer/Footer"
 import { useEffect, useState } from "react"
 import Skills from "./Component/Skills/Skills"
-
-
+import './App.css'
 
 
 const App = () => {
-  const [scrolear, setScrolear] = useState(false)
+  const [scrolear, setScrolear] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
+  const [isFadingOut, setIsFadingOut] = useState(false);
+
   useEffect(() => {
     const hacerScroll = () => {
       if (window.scrollY > 1000) {
@@ -29,18 +31,37 @@ const App = () => {
     };
   }, [scrolear]);
 
+  useEffect(() => {
+    const timeout = setTimeout(() => {
+      setIsFadingOut(true);
+      setTimeout(() => {
+        setIsLoading(false);
+      }, 800); 
+    }, 2000); 
+
+    return () => clearTimeout(timeout);
+  }, []);
+
+
   return (
     <>
-      <Header scrolear={scrolear} />
-      <Hero />
-      <Sobremi scrolear={scrolear} />
-      <Skills scrolear={scrolear} />
-      <Proyectos />
-      <Contactos />
-      <Footer />
+      {isLoading && (
+        <div className={`loader-container ${isFadingOut ? "fading-out" : ""}`}>
+          <div className="loader"></div>
+        </div>
+      )}
 
+      <div className={`app-content ${!isLoading ? "visible" : ""}`}>
+        <Header scrolear={scrolear} />
+        <Hero />
+        <Sobremi scrolear={scrolear} />
+        <Skills scrolear={scrolear} />
+        <Proyectos />
+        <Contactos />
+        <Footer />
+      </div>
     </>
-  )
+  );
 }
 
 export default App

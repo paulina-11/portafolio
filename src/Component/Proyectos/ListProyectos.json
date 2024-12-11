@@ -1,55 +1,64 @@
 [
   {
     "id": 1,
-    "title": "Intermediarios GNP",
-    "subtitle": "Colaboré en el desarrollo de una Single-Page Application con un equipo de cinco personas, utilizando Angular. Mi rol incluyó la traducción del diseño de Figma a código, creación y obtención de información a través de servicios. Implementé pruebas en Sonarqube para mejorar métricas de código y así garantizar la calidad del código.",
-    "image": "https://huspi.com/wp-content/uploads/2019/11/HUSPI-Blog-Banner-1.png",
-    "alt": "intermediarios",
+    "title": "Necsus",
+    "subtitle": "Colaboré en el desarrollo de una aplicación web utilizando React y Microfrontends. Dentro del proyecto logré que la aplicación completara flujos de usuario que antes no eran posibles, mejorando su funcionalidad y experiencia de usuario. Además, en este mismo proyecto, tuve un acercamiento en el testing y las pruebas E2E, lo que me ha permitido entender las historias de usuario y asegurarme de que las soluciones cumplan con los requisitos y expectativas del cliente.",
+    "image": "../../../Necsus.png",
+    "alt": "Necsus",
     "git": "#",
     "url": "#"
   },
   {
     "id": 2,
+    "title": "Intermediarios GNP",
+    "subtitle": "Colaboré en el desarrollo de una Single-Page Application con un equipo de cinco personas, utilizando Angular. Mi rol incluyó la traducción del diseño de Figma a código, creación y obtención de información a través de servicios. Implementé pruebas en Sonarqube para mejorar métricas de código y así garantizar la calidad del código.",
+    "image": "../../../GNP.jpeg",
+    "alt": "intermediarios",
+    "git": "#",
+    "url": "#"
+  },
+  {
+    "id": 3,
     "title": "Anime Wiki",
     "subtitle": "Desarrollé una Wiki de Anime, creado con Angular para la interfaz de usuario dinámica y responsive, consumiendo un servicio de JikanAPI por medio de httpClient para obtener un listado de Animes.",
-    "image": "../../../animeWiki.png",
+    "image": "../../../animeWiki.PNG",
     "alt": "animeWiki",
     "git": "https://github.com/paulina-11/jikan-api-",
     "url": "https://animewikii.netlify.app/"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Skate Nation",
     "subtitle": "Proyecto elaborado en conjunto con un equipo, creado con HTML, CSS y Js, el proyecto es responsive design, haciendo uso de arrays de objetos para la vista de los productos.",
-    "image": "../../../skateNation.png",
+    "image": "../../../skateNation.PNG",
     "alt": "skateNation",
     "git": "https://github.com/gomezgtzem/proyecto-integrador",
     "url": "https://gomezgtzem.github.io/proyecto-integrador/src/"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Invitación de Boda",
     "subtitle": "Proyecto creado con Angular, maquetando una invitación, creando animaciones con aos animation, utilizando el enfoque mobile first y haciendo uso de grid para la organización de los recuadros.",
-    "image": "../../../invitacion.png",
+    "image": "../../../invitacion.PNG",
     "alt": "Invitacion",
     "git": "https://github.com/paulina-11/invitacion-web",
     "url": "https://boda-anna-aaron.netlify.app/"
   },
 
   {
-    "id": 5,
+    "id": 6,
     "title": "FakeShop",
     "subtitle": "Aplicación creada en react consumiendo una API de productos, responsive web design, incluye una paginación para ver los productos ordenados, desplegada en Netlify.",
-    "image": "../../../fakeShop.png",
+    "image": "../../../fakeShop.PNG",
     "alt": "fakeShop",
     "git": "https://github.com/paulina-11/fakeShop",
     "url": "https://faketiendita.netlify.app/"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Replica Venn",
     "subtitle": "Réplica de la pantalla de inicio de Venn, maqueta creada con HTML y CSS, responsive web design.",
-    "image": "../../../venn.png",
+    "image": "../../../venn.PNG",
     "alt": "venn",
     "git": "https://github.com/paulina-11/replicaVenn",
     "url": "https://paulina-11.github.io/replicaVenn/"
