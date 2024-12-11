@@ -1,5 +1,4 @@
-Portafolio :)
-
+## Portafolio :)
 Este es mi portafolio personal donde presento los proyectos en los que he trabajado, mis habilidades y la experiencia que he adquirido como desarrollador frontend. Aquí podrás explorar mis aplicaciones web, mis contribuciones y más.
 
 ## Tecnologías utilizadas
@@ -11,7 +10,3 @@ Este es mi portafolio personal donde presento los proyectos en los que he trabaj
 - ## Ver mi portafolio
 Puedes ver mi portafolio en línea en https://paulina-avila.netlify.app/ 
 
-## Clonar este repositorio
-Si deseas clonar este repositorio y ver el código o contribuir:
-```bash
-git clone https://github.com/paulina-11/portafolio.git
